@@ -48,5 +48,6 @@ Welcome to visit my other portal websites [ZhiHu](https://www.zhihu.com/people/c
 - 2022.06 - 2025.06, East China Normal University
 - 2018.09 - 2022.06, Nanjing Normal University 
 
-# 💻 Internships
-- 2024.07 - 2024.9 Linyuan Lab, USTC, Hefei, China
+[//]: # (# 💻 Internships)
+
+[//]: # (- 2024.07 - 2024.9 Linyuan Lab, USTC, Hefei, China)
