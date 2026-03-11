@@ -3,26 +3,27 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Blogs"
+    url: https://hnzhaoyli.github.io/Blogs
 
-  - title: "Publications"
-    url: "/#-publications"
 
-#  - title: "Honors and Awards"
-#    url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
 
-#  - title: "Invited Talks"
-#    url: "/#-invited-talks"
+
+
+#  - title: "News"
+#    url: "/#-news"
+#
+#  - title: "Publications"
+#    url: "/#-publications"
+#
+#  - title: "Educations"
+#    url: "/#-educations"
 
 #  - title: "Internships"
 #    url: "/#-internships"
 
 #main:
-  - title: "Blogs"
-    url: https://svyj.github.io/blogs
-  - title: "Daily Papers"
-    url: https://svyj.github.io/daily-papers
+
+#  - title: "Daily Papers"
+#    url: https://svyj.github.io/daily-papers
