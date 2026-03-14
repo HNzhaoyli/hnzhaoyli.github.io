@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "zhaoyli"
 description              : "Major in Data Science"
-repository               : "https://github.com/zhaoylee"
+repository               : "https://zhaoylee.github.io/"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : hnzhaoyli
+  github           : zhaoylee
   google_plus      :
   keybase          :
   instagram        :
